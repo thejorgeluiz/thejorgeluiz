@@ -11,7 +11,13 @@ Estudo constantemente **HTML, CSS, JavaScript, React e Vue**, aplicando boas prÃ
 ---
 
 ### ðŸš€ Projetos em destaque
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thejorgeluiz&repo=restaurante_delivery&theme=dark)](https://github.com/thejorgeluiz/restaurante_delivery)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thejorgeluiz&repo=eplay&theme=dark)](https://github.com/thejorgeluiz/eplay)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thejorgeluiz&repo=clone_disneyplus&theme=dark)](https://github.com/thejorgeluiz/clone_disneyplus)
+
 
 ---
 
