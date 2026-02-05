@@ -6,4 +6,5 @@ Estudo constantemente HTML, CSS, JavaScript, React, Vue e boas práticas de dese
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejorgeluiz&show_icons=true&theme=dark)](https://github.com/thejorgeluiz)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejorgeluiz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
