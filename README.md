@@ -1,22 +1,24 @@
-### Olá 👋
+### Olá 👋 Eu sou o Jorge Luiz
 
-##### Sobre o Jorge
-Desenvolvedor Frontend focado na criação de interfaces modernas, responsivas e funcionais.  
-Estudo constantemente HTML, CSS, JavaScript, React, Vue e boas práticas de desenvolvimento.
+Desenvolvedor Front-End focado na criação de interfaces modernas, responsivas e funcionais.  
+Estudo constantemente **HTML, CSS, JavaScript, React e Vue**, aplicando boas práticas de desenvolvimento e versionamento com Git.
 
-### Detalhes
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogithub1406&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejorgeluiz&show_icons=true&theme=dark)](https://github.com/thejorgeluiz)
 
-### Projetos
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 Projetos em destaque
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thejorgeluiz&repo=restaurante_delivery&theme=dark)](https://github.com/thejorgeluiz/restaurante_delivery)
 
+---
 
-### Linguagens utilizadas
+### 🧠 Linguagens mais usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejorgeluiz&layout=compact&theme=dark)](https://github.com/thejorgeluiz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogithub1406&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-### Contatos
-
-[<img src='https://img.shi
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Luiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-luiz-front-end/)
