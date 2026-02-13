@@ -3,11 +3,25 @@
 Desenvolvedor Front-End focado na criação de interfaces modernas, responsivas e funcionais.  
 Estudo constantemente **HTML, CSS, JavaScript, React e Vue**, aplicando boas práticas de desenvolvimento e versionamento com Git.
 
-## 📌 Projetos
+## 🚀 Projetos em Destaque
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thejorgeluiz&repo=restaurante_delivery)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thejorgeluiz&repo=eplay)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thejorgeluiz&repo=clone_disneyplus)
+### 🍔 Restaurante Delivery
+🔗 https://restaurante-delivery.vercel.app/  
+📁 https://github.com/thejorgeluiz/restaurante_delivery  
+Tecnologias: HTML, CSS, JavaScript, React
+
+---
+
+### 🎮 Eplay
+🔗 https://github.com/thejorgeluiz/eplay  
+Tecnologias: React, TypeScript, Styled Components
+
+---
+
+### 🎬 Clone Disney+
+🔗 https://github.com/thejorgeluiz/clone_disneyplus  
+Tecnologias: HTML, CSS, JavaScript
+
 
 
 
